@@ -2,7 +2,7 @@
  * Module dependencies
  */
 
-// Jsonp
+module.exports = instagram;
 
 /**
  * Main Function
