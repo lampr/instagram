@@ -2,9 +2,7 @@
  * Module dependencies
  */
 
-var jsonp = require('jsonp');
-
-module.exports = instagram;
+// Jsonp
 
 /**
  * Main Function
