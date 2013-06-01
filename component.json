@@ -1,6 +1,6 @@
 {
-  "name": "Instagram",
-  "repo": "lampr/Instagram",
+  "name": "instagram",
+  "repo": "lampr/instagram",
   "description": "Instagram API communication as a simple js component.",
   "version": "0.0.3",
   "keywords": [],
