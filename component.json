@@ -1,0 +1,16 @@
+{
+  "name": "Instagram",
+  "repo": "lampr/Instagram",
+  "description": "Instagram API communication as a simple js component.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "jsonp": "0.0.3"
+    },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
