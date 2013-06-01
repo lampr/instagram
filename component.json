@@ -2,7 +2,7 @@
   "name": "Instagram",
   "repo": "lampr/Instagram",
   "description": "Instagram API communication as a simple js component.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "keywords": [],
   "dependencies": {
      "learnboost/jsonp": "0.0.3" 
