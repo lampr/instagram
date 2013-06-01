@@ -5,8 +5,8 @@
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {
-    "jsonp": "0.0.3"
-    },
+     "learnboost/jsonp": "0.0.3" 
+  },
   "development": {},
   "license": "MIT",
   "main": "index.js",
