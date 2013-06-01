@@ -4,6 +4,8 @@
 
 var jsonp = require('jsonp');
 
+module.exports = instagram;
+
 /**
  * Main Function
  */
