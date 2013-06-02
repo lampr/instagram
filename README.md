@@ -19,33 +19,36 @@ instagram.popular(function(err, data){
 ```
 ### Available Methods
 
-#### Feed
-
 ```js
-
+//Feed
 instagram.feed(function(err, data){
  console.log(data);
 });
 
-```
-
-#### Media
-
-```js
-
+//Media
 instagram.media('MEDIA-ID', function(err, data){
  console.log(data);
 });
 
-```
-
-#### Tag
-
-```js
+//Tag
 instagram.tag('TAG-NAME', function(err, data){
  console.log(data);
 });
 
+//Followers
+instagram.followers('USER-ID', function(err, data){
+ console.log(data);
+});
+
+//Followings
+instagram.follow('USER-iD', function(err, data){
+ console.log(data);
+});
+
+//Nearby
+instagram.nearby('LAT', 'LNG' function(err, data){
+ console.log(data);
+});
 ```
 
 ## License
