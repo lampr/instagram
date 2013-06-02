@@ -1,11 +1,11 @@
 instagram
 =========
 
-# What It Is
+## What It Is
 
 A simple helper component that makes communicating with the Instagram API.
 
-# Setup
+## Setup
 
 ```js
 var instagram = require('instagram');
@@ -14,7 +14,7 @@ instagram('YOUR-ACCESS-TOKEN');
 
 ```
 
-# Example
+### Example
 
 ```js
 instagram.popular(function(err, data){
@@ -22,7 +22,7 @@ instagram.popular(function(err, data){
 });
 
 ```
-# Available Methods
+### Available Methods
 
 #### Feed
 
