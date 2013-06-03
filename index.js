@@ -40,7 +40,7 @@ instagram.feed = function(callback){
    	});
 }
 
-instagram.me = function(user_id, callback){
+instagram.user = function(user_id, callback){
 	jsonp("https://api.instagram.com/v1/users/"+ user_id +"/media/recent/?access_token="+ settings.access_token +"", {}, function(err, data){	
    		if (callback){
    			callback(err, data);
