@@ -30,6 +30,16 @@ instagram.media('MEDIA-ID', function(err, data){
  console.log(data);
 });
 
+//Me
+instagram.followers(function(err, data){
+ console.log(data);
+});
+
+//Specific User's Feed
+instagram.userfeed('USER-ID', function(err, data){
+ console.log(data);
+});
+
 //Tag
 instagram.tag('TAG-NAME', function(err, data){
  console.log(data);
