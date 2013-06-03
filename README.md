@@ -56,6 +56,7 @@ instagram.nearby('LAT', 'LNG' function(err, data){
 });
 ```
 
+
 ## License
 
 MIT
