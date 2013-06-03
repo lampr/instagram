@@ -30,11 +30,6 @@ instagram.media('MEDIA-ID', function(err, data){
  console.log(data);
 });
 
-//Me
-instagram.followers(function(err, data){
- console.log(data);
-});
-
 //Specific User's Photos
 instagram.user('USER-ID', function(err, data){
  console.log(data);
